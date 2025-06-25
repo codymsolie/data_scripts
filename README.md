@@ -7,6 +7,3 @@ on anything other than Linux),
 
 Makes use of Gurobi in the search for intersection
 density
-
-
-
